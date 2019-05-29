@@ -10,7 +10,7 @@
 
 5 - Kruskal algorithm to get Minimum spanning tree ( graph )
 
-6 - knapsack problem ( memoization - bottom up O(N*W)space - bottom up O(2*W)space - bottom up O(W)space - branch and bound using fraction knapsack and value sum array)
+6 - knapsack problem ( memoization - bottom up O(N * W)space - bottom up O(2 * W)space - bottom up O(W)space - branch and bound using fraction knapsack and value sum array)
 
 7 - EditDistance problem ( memoization - bottom up O(N^2)space - bottom up O(2*N)space - bottom up O(N)space )
 
